@@ -19,10 +19,10 @@ Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaEx
 
 
 ### Programação Orientada a Objetos (POO)
-1. **Calcular nota final de um aluno e verificar aprovação** - [Solução](link_para_o_codigo)
-2. **Gerenciar dados e aumento salarial de um funcionário** - [Solução](link_para_o_codigo)
-3. **Calcular área, perímetro e diagonal de um retângulo** - [Solução](link_para_o_codigo)
-4. **Converter valores em dólares para reais com IOF** - [Solução](link_para_o_codigo)
+1. **Calcular nota final de um aluno e verificar aprovação** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)
+2. **Gerenciar dados e aumento salarial de um funcionário** - [Solução]([link_para_o_codigo](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/GerenciarFuncionario))
+3. **Calcular área, perímetro e diagonal de um retângulo** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoRetangulo)
+4. **Converter valores em dólares para reais com IOF** - [Solução]([link_para_o_codigo](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda))
 5. **Criar um sistema simples de cadastro de usuários** - [Solução](link_para_o_codigo)
 6. **Implementar encapsulamento em uma classe `ContaBancaria`** - [Solução](link_para_o_codigo)
    
