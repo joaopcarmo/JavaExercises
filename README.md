@@ -13,7 +13,7 @@ Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaEx
 4. **Divisão entre pares de números, tratando divisão por zero** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/src/DivisaoEntrePares.java)
 5. **Exibir números de 1 a N com seus quadrados e cubos** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/src/LinhasQuadradoCubo.java)
 6. **Validar senha até ser correta (senha: 2002)** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/src/ValidarSenha.java)
-7. **Registrar abastecimentos e contar preferências de combustível** - [Solução]([link_para_o_codigo](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/src/RegistrarAbastecimento.java))
+7. **Registrar abastecimentos e contar preferências de combustível** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/src/RegistrarAbastecimento.java)
 
 <br>
 
