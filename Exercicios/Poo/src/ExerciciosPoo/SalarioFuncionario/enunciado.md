@@ -8,15 +8,15 @@ ser mudado livremente. Um salário só pode ser aumentado com base em uma opera�
 aumento por porcentagem dada. Exemplo:
 
 How many employees will be registered? 3
-Emplyoee #1:
+Employee #1:
 Id: 333
 Name: Maria Brown
 Salary: 4000.00
-Emplyoee #2:
+Employee #2:
 Id: 536
 Name: Alex Grey
 Salary: 3000.00
-Emplyoee #3:
+Employee #3:
 Id: 772
 Name: Bob Green
 Salary: 5000.00
