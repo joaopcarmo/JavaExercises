@@ -9,7 +9,6 @@ public class Aluguel {
         this.email = email;
     }
 
-
     public String getEmail() {
         return email;
     }
