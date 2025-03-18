@@ -10,10 +10,10 @@ Bem-vindo ao meu repositório de soluções para exercícios em Java! Aqui estã
 1. **Gerenciamento de Aluguel de Quartos para Estudantes** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
 2. **Gerenciamento de Funcionários com Aumento Salarial** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)
 3. **Cadastro e Operações Bancárias: Depósitos e Saques com Taxa(Encapsulamento)** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)
-4. **Gerenciar dados e aumento salarial de um funcionário** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/GerenciarFuncionario)
+4. **Conversor de moedas com IOF** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
 5. **Calcular área, perímetro e diagonal de um retângulo** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoRetangulo)
-6. **Converter valores em dólares para reais com IOF** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
-7. **Calcular nota final de um aluno e verificar aprovação** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)
+6. **Calcular nota final de um aluno e verificar aprovação** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)
+7. **Gerenciar dados de um funcionário** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/GerenciarFuncionario)
    
 <br>
 
