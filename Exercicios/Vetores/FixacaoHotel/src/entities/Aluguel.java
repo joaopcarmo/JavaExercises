@@ -9,8 +9,6 @@ public class Aluguel {
         this.email = email;
     }
 
-    public Aluguel() {
-    }
 
     public String getEmail() {
         return email;
