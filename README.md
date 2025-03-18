@@ -5,16 +5,16 @@ Bem-vindo ao meu repositório de soluções para exercícios em Java! Aqui estã
 
 ## Exercícios
 
-### Estruturas de Repetição
-Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/src/enunciadosGeral.md)
-1. **Exibir números ímpares de 1 até X** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/ExibirImparesAteX.java)
-2. **Contar valores dentro e fora do intervalo [10,20]** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/ValoresNoIntervalo.java)
-3. **Calcular média ponderada de três números** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/MediaPonderada.java)
-4. **Divisão entre pares de números, tratando divisão por zero** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/DivisaoEntrePares.java)
-5. **Exibir números de 1 a N com seus quadrados e cubos** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/LinhasQuadradoCubo.java)
-6. **Validar senha até ser correta (senha: 2002)** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/while/src/ValidarSenha.java)
-7. **Registrar abastecimentos e contar preferências de combustível** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/while/src/RegistrarAbastecimento.java)
 
+### Programação Orientada a Objetos (POO)
+1. **Gerenciamento de Aluguel de Quartos para Estudantes** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
+2. **Gerenciamento de Funcionários com Aumento Salarial** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)
+3. **Cadastro e Operações Bancárias: Depósitos e Saques com Taxa(Encapsulamento)** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)
+4. **Gerenciar dados e aumento salarial de um funcionário** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/GerenciarFuncionario)
+5. **Calcular área, perímetro e diagonal de um retângulo** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoRetangulo)
+6. **Converter valores em dólares para reais com IOF** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
+7. **Calcular nota final de um aluno e verificar aprovação** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)
+   
 <br>
 
 ### Vetores
@@ -29,14 +29,17 @@ Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaEx
 
 <br>
 
-### Programação Orientada a Objetos (POO)
-1. **Gerenciamento de Aluguel de Quartos para Estudantes** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
-2. **Gerenciamento de Funcionários com Aumento Salarial** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)
-3. **Cadastro e Operações Bancárias: Depósitos e Saques com Taxa(Encapsulamento)** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)
-4. **Gerenciar dados e aumento salarial de um funcionário** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/GerenciarFuncionario)
-5. **Calcular área, perímetro e diagonal de um retângulo** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoRetangulo)
-6. **Converter valores em dólares para reais com IOF** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
-7. **Calcular nota final de um aluno e verificar aprovação** - [Solução](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)
+### Estruturas de Repetição
+Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/src/enunciadosGeral.md)
+1. **Exibir números ímpares de 1 até X** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/ExibirImparesAteX.java)
+2. **Contar valores dentro e fora do intervalo [10,20]** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/ValoresNoIntervalo.java)
+3. **Calcular média ponderada de três números** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/MediaPonderada.java)
+4. **Divisão entre pares de números, tratando divisão por zero** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/DivisaoEntrePares.java)
+5. **Exibir números de 1 a N com seus quadrados e cubos** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/LinhasQuadradoCubo.java)
+6. **Validar senha até ser correta (senha: 2002)** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/while/src/ValidarSenha.java)
+7. **Registrar abastecimentos e contar preferências de combustível** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/while/src/RegistrarAbastecimento.java)
+
+
    
 
 
