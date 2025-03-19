@@ -7,23 +7,23 @@ Lembre-se de aplicar a técnica de encapsulamento para não permitir que o salá
 ser mudado livremente. Um salário só pode ser aumentado com base em uma operação de
 aumento por porcentagem dada. Exemplo:
 
-How many employees will be registered? 3
-Emplyoee #1:
-Id: 333
-Name: Maria Brown
-Salary: 4000.00
-Emplyoee #2:
-Id: 536
-Name: Alex Grey
-Salary: 3000.00
-Emplyoee #3:
-Id: 772
-Name: Bob Green
-Salary: 5000.00
+How many employees will be registered? 3 <br>
+Employee #1: <br>
+Id: 333 <br>
+Name: Maria Brown <br>
+Salary: 4000.00 <br>
+Employee #2: <br>
+Id: 536 <br>
+Name: Alex Grey <br> 
+Salary: 3000.00 <br>
+Employee #3: <br>
+Id: 772 <br>
+Name: Bob Green <br>
+Salary: 5000.00 <br>
 
-Enter the employee id that will have salary increase : 536
-Enter the percentage: 10.0
-List of employees:
-333, Maria Brown, 4000.00
-536, Alex Grey, 3300.00
-772, Bob Green, 5000.00
+Enter the employee id that will have salary increase : 536 <br>
+Enter the percentage: 10.0 <br>
+List of employees: <br>
+333, Maria Brown, 4000.00 <br> 
+536, Alex Grey, 3300.00 <br>
+772, Bob Green, 5000.00 <br>
