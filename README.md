@@ -30,6 +30,7 @@ Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaEx
 <br>
 
 ### Matrizes 
+Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Matrizes/src/enunciados.md)
 1. **Vizinhos de um Número na Matriz** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Matrizes/src/ValoresVizinhos.java)
 2. **Diagonal Principal e Contagem de Números Negativos** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Matrizes/src/ValoresNegativos.java)
 3. **Manipulação de uma Matriz 5x5 - Par ou ímpar** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Matrizes/src/ParOuImpar.java)
