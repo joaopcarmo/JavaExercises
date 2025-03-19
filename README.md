@@ -29,6 +29,13 @@ Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaEx
 
 <br>
 
+### Matrizes 
+1. **Vizinhos de um Número na Matriz** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Matrizes/src/ValoresVizinhos.java)
+2. **Diagonal Principal e Contagem de Números Negativos** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Matrizes/src/ValoresNegativos.java)
+3. **Manipulação de uma Matriz 5x5 - Par ou ímpar** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Matrizes/src/ParOuImpar.java)
+
+<br>
+
 ### Estruturas de Repetição
 Enunciados completos das questões - [Aqui](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/src/enunciadosGeral.md)
 1. **Exibir números ímpares de 1 até X** - [Solução](https://github.com/joaopcarmo/JavaExercises/blob/main/Exercicios/Repeticao/for/src/ExibirImparesAteX.java)
