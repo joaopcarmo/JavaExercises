@@ -1,15 +1,40 @@
-### Exercícios Estruturas de Repetição ###
+### 🔁 Loop and Repetition Structure Exercises
 
-1- **Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.**
+1. **Odd Numbers from 1 to X**  
+   - Read an integer **X** (1 ≤ X ≤ 1000).  
+   - Display all **odd numbers from 1 to X**, one per line (including X if it is odd).
 
-2- **Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo(use a palavra "in" para dentro do intervalo, e "out" para fora do intervalo.**
+2. **Interval Check: In and Out**  
+   - Read an integer **N**, the number of values to be tested.  
+   - Then read **N integers**, and display how many of them are **"in"** the interval [10, 20] and how many are **"out"**.
 
-3- **Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de teste consiste de 3 valores reais, cada um deles com uma casa decimal. Apresente a média ponderada para cada um destes conjuntos de 3 valores, sendo que o primeiro valor tem peso 2, o segundo valor tem peso 3 e o terceiro valor tem peso 5.**
+3. **Weighted Average Calculation**  
+   - Read an integer **N**, representing the number of test cases.  
+   - For each test case, read 3 decimal values.  
+   - Calculate and display the **weighted average**, with weights: 2, 3, and 5 respectively.
 
-4- **Fazer um programa para ler um número N. Depois leia N pares de números e mostre a divisão do primeiro pelo segundo. Se o denominador for igual a zero, mostrar a mensagem "divisao impossivel"**
+4. **Division with Zero Check**  
+   - Read an integer **N** (number of pairs).  
+   - For each pair, perform division of the first by the second.  
+   - If the denominator is zero, print `"division impossible"`.
 
-5- **Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado e o cubo do valor.**
+5. **Squares and Cubes from 1 to N**  
+   - Read an integer **N**.  
+   - Print **N lines**. Each line should contain:
+     - The line number (starting from 1)
+     - Its **square**
+     - Its **cube**
 
-6- **Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002.**
+6. **Password Validation Loop**  
+   - Repeatedly read an integer (password) until it is equal to **2002**.  
+   - For incorrect values, display `"Invalid Password"`.  
+   - When correct, display `"Access Granted"` and end the program.
 
-7- **Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível.**
+7. **Fuel Preference Counter**  
+   - Read fuel types entered by clients:
+     - `1` = Alcohol  
+     - `2` = Gasoline  
+     - `3` = Diesel  
+     - `4` = End  
+   - For invalid codes (not 1–4), ask again.
+   - When code `4` is entered, show `"THANK YOU"` and display the **count of each fuel type** chosen by clients.
