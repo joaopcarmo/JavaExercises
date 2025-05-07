@@ -48,5 +48,3 @@ Full problem statements – [Here](https://github.com/joaopcarmo/JavaExercises/b
 
 ---
 
-📌 **Keep practicing and improving!** 🚀
-****
