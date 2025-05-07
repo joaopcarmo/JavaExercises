@@ -1,20 +1,38 @@
-### Exercícios Estruturas de Dados Array ###
+### 📊 Array-Based Data Structure Exercises ###
 
-1- Fazer um programa para ler um número inteiro N e a altura de N pessoas. Armazene as N alturas em um vetor. Em seguida, mostrar a altura média dessas pessoas. 
+1. **Average Height**
+   - Read an integer N and the height of N people.
+   - Store the heights in an array.
+   - Then, display the average height.
 
-2- Fazer um programa para ler um número inteiro N e os dados (nome e preço) de N Produtos. Armazene os N produtos em um vetor. Em seguida, mostrar o preço médio dos produtos.
+2. **Average Product Price**
+   - Read an integer N and the data (name and price) of N products.
+   - Store the data in an array of products.
+   - Display the average product price.
 
-3- Fazer um programa para ler um número inteiro N e depois um vetor de N números reais. Em seguida, mostrar na tela a média aritmética de todos elementos com três casas decimais. Depois mostrar todos
-os elementos do vetor que estejam abaixo da média, com uma casa decimal cada.
+3. **Elements Below Average**
+   - Read N real numbers into an array.
+   - Display the average with three decimal places.
+   - Then print all elements **below** the average, with one decimal place each.
 
-4- Fazer um programa para ler um vetor de N números inteiros. Em seguida, mostrar na tela a média aritmética somente dos números pares lidos, com uma casa decimal. Se nenhum número par for
-digitado, mostrar a mensagem "NENHUM NUMERO PAR.
+4. **Average of Even Numbers**
+   - Read N integers into an array.
+   - Calculate and display the average of **even numbers only**, with one decimal place.
+   - If no even number is entered, display: `"NO EVEN NUMBER"`.
 
-5-Fazer um programa para ler um conjunto de nomes de pessoas e suas respectivas idades. Os nomes devem ser armazenados em um vetor, e as idades em um outro vetor. Depois, mostrar na tela o nome
-da pessoa mais velha.
+5. **Oldest Person**
+   - Read a list of names and corresponding ages.
+   - Store names and ages in separate arrays.
+   - Display the name of the **oldest person**.
 
-6-Fazer um programa para ler um conjunto de N nomes de alunos, bem como as notas que eles tiraram no 1º e 2º semestres. Cada uma dessas informações deve ser armazenada em um vetor. Depois, imprimir
-os nomes dos alunos aprovados, considerando aprovados aqueles cuja média das notas seja maior ou igual a 6.0 (seis).
+6. **Approved Students**
+   - Read names and two semester grades for N students.
+   - Store data in arrays.
+   - Display the names of students whose **average grade is ≥ 6.0**.
 
-7-Tem-se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Fazer um programa que calcule e escreva a maior e a menor altura do grupo, a média de altura das mulheres, e o número
-de homens.
+7. **Height and Gender Analysis**
+   - Read the height and gender (M or F) of N people.
+   - Display:
+     - The **tallest** and **shortest** heights in the group
+     - The **average height of the women**
+     - The **number of men**
