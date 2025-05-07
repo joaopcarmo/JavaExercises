@@ -1,5 +1,30 @@
-Fazer um programa para ler o nome de um aluno e as três notas que ele obteve nos três trimestres do ano
-(primeiro trimestre vale 30 e o segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno no
-ano. Dizer também se o aluno está aprovado (PASS) ou não (FAILED) e, em caso negativo, quantos pontos faltam
-para o aluno obter o mínimo para ser aprovado (que é 60% da nota). Você deve criar uma classe Student para
-resolver este problema.
+### 🎓 Student Grade Evaluation
+
+**Problem Statement**
+
+Write a program that reads a student's **name** and their **three grades** from the academic year:
+
+- First trimester (weight = 30 points)
+- Second trimester (weight = 35 points)
+- Third trimester (weight = 35 points)
+
+The program should then:
+
+- Calculate the **final grade** of the student.
+- Display **PASS** if the final grade is 60 or above.
+- Otherwise, display **FAILED** and how many points were **missing** to reach 60.
+
+Create a class named `Student` to encapsulate the logic and calculations.
+
+> 💡 The total possible score is 100. The passing grade is 60.
+
+**Example:**
+
+Enter student name: Alex Green
+Enter the three grades:
+27.00
+31.00
+32.00
+
+FINAL GRADE = 90.00
+PASS
