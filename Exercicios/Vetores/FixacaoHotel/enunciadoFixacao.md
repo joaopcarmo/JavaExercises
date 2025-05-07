@@ -1,4 +1,4 @@
-###Fixation Exercise###
+**Fixation Exercise**
 
 The owner of a guesthouse has ten rooms available for rent to students, with these rooms being identified by numbers from 0 to 9.
 
