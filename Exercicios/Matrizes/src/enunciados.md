@@ -1,17 +1,18 @@
-# Exercícios sobre Matrizes
+# Two-Dimensional Array (2D Array) Exercises
 
+1. **Neighbors of a Number in a Matrix**
+   - Read two integers **M** and **N**, then read an MxN matrix of integers (which may contain repeated values).
+   - Then read an integer **X** that is guaranteed to exist in the matrix.
+   - For each occurrence of X, print its **left**, **up**, **right**, and **down** neighbors, if they exist.
 
-1) Fazer um programa para ler dois números inteiros M e N, e depois ler
-uma matriz de M linhas por N colunas contendo números inteiros,
-podendo haver repetições. Em seguida, ler um número inteiro X que
-pertence à matriz. Para cada ocorrência de X, mostrar os valores à
-esquerda, acima, à direita e abaixo de X, quando houver, conforme
-exemplo.
+2. **Main Diagonal and Count of Negative Numbers**
+   - Read an integer **N** and then an NxN square matrix of integers.
+   - Display:
+     - The **main diagonal**
+     - The **number of negative values** in the matrix.
 
-2) Fazer um programa para ler um número inteiro N e uma matriz de 
-ordem N contendo números inteiros. Em seguida, mostrar a diagonal
-principal e a quantidade de valores negativos da matriz
-
-3) Leia os elementos de uma matriz 5 x 5 a partir do teclado. O algoritmo deve:
-a. Imprimir a matriz informada.
-b. Imprimir os elementos armazenados nas posições em que o índice da linha é par e o índice da coluna é ímpar. 
+3. **Matrix Element Filtering (5x5)**
+   - Read the elements of a **5x5** matrix from the user.
+   - Then:
+     - a) Print the entire matrix.
+     - b) Print the elements where the **row index is even** and the **column index is odd**.
