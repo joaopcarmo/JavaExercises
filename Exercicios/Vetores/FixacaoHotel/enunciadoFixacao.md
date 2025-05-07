@@ -1,8 +1,7 @@
-### Exercício de Fixação ###
+###Fixation Exercise###
 
-A dona de uma pousada possui dez quartos para alugar para estudantes, sendo esses quartos identificados pelos números 0 a 9.
+The owner of a guesthouse has ten rooms available for rent to students, with these rooms being identified by numbers from 0 to 9.
 
-Fazer um programa que inicie com todos os dez quartos vazios, e depois leia uma quantidade N representando o número de estudantes que vão alugar quartos (N pode ser de 1 a 10).
-Em seguida, registre o aluguel dos N estudantes. Para cada registro de aluguel, informar o nome e email do
-estudante, bem como qual dos quartos ele escolheu (de 0 a 9). Suponha que seja escolhido um quarto vago. 
-Ao final, seu programa deve imprimir um relatório de todas ocupações da pousada, por ordem de quarto.
+Write a program that starts with all ten rooms empty, and then reads an integer N representing the number of students who will rent rooms (N can be from 1 to 10). Then, register the rental information for each of the N students. For each rental, provide the student's name, email, and the room number they chose (from 0 to 9). You may assume that only vacant rooms are chosen.
+
+At the end, the program should print a report of all occupied rooms in order of room number.
