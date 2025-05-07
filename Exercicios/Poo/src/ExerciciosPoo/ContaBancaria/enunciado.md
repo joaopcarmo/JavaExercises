@@ -5,7 +5,6 @@ conta, o depósito inicial não será feito e o saldo inicial da conta será, na
 Importante: uma vez que uma conta bancária foi aberta, o número da conta nunca poderá ser alterado. Já
 o nome do titular pode ser alterado (pois uma pessoa pode mudar de nome por ocasião de casamento, por
 exemplo).
-
 Por fim, o saldo da conta não pode ser alterado livremente. É preciso haver um mecanismo para proteger
 isso. O saldo só aumenta por meio de depósitos, e só diminui por meio de saques. Para cada saque
 realizado, o banco cobra uma taxa de $ 5.00. Nota: a conta pode ficar com saldo negativo se o saldo não for
