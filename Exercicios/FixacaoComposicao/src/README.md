@@ -49,4 +49,4 @@ Total price: $1080.00
 
 
 
-Enunciado Completo: https://docs.google.com/document/d/1bmWL5ncXrMkCyi1Xl6ZBrGxZTtbmX9rhI9IsOEnf3zw/edit?tab=t.0
+Enunciado Completo em português: https://docs.google.com/document/d/1bmWL5ncXrMkCyi1Xl6ZBrGxZTtbmX9rhI9IsOEnf3zw/edit?tab=t.0
