@@ -7,12 +7,13 @@ Welcome to my repository of Java exercise solutions! This space is organized to 
 ### Object-Oriented Programming (OOP)
 1. **Student Room Rental Management** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
 2. **Worker Contracts & Monthly Income Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Composicao/src)
-3. **Employee Salary Raise Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
-4. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
-5. **Currency Converter with IOF Tax** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)  
-6. **Calculate Area, Perimeter, and Diagonal of a Rectangle** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoRetangulo)  
-7. **Final Grade Calculation and Approval Check** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)  
-8. **Employee Data Management** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/GerenciarFuncionario)
+3. ** Social Media Post and Comment Formatter** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Composicao/src)
+4. **Employee Salary Raise Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
+5. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
+6. **Currency Converter with IOF Tax** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)  
+7. **Calculate Area, Perimeter, and Diagonal of a Rectangle** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoRetangulo)  
+8. **Final Grade Calculation and Approval Check** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)  
+9. **Employee Data Management** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/GerenciarFuncionario)
 
 <br>
 
