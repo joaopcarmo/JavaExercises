@@ -7,7 +7,7 @@ Welcome to my repository of Java exercise solutions! This space is organized to 
 ### Object-Oriented Programming (OOP)
 1. **Student Room Rental Management** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
 2. **Worker Contracts & Monthly Income Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Composicao/src)
-3. ** Social Media Post and Comment Formatter** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Composicao/src)
+3. **Social Media Post and Comment Formatter** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/StringBuilder/src)
 4. **Employee Salary Raise Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
 5. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
 6. **Currency Converter with IOF Tax** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)  
