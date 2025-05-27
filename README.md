@@ -10,13 +10,14 @@ Welcome to my repository of Java exercise solutions! This space is organized to 
 3. **Social Media Post and Comment Formatter** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/StringBuilder/src)
 4. **Employee Payment System – Inheritance and Polymorphism** - [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Polimorfismo/Exercicio1)
 5. **Bank System – Inheritance, Polymorphism, Upcasting and Downcasting** - [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Heranca)
-6. **Worker Contracts & Monthly Income Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Composicao/src)
-7. **Student Room Rental Management** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
-8. **Currency Converter with IOF Tax** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
-9. **Geometric Shape Area Calculation Using Inheritance and Polymorphism** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Polimorfismo/ExercicioAbstracao)
-10. **Salary Raise Calculator** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
-11. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
-12. **Final Grade Calculation and Approval Check** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)  
+6. **Tax Calculation for Individuals and Companies Using Inheritance and Polymorphism** - [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Polimorfismo/FixacaoAbstracao)
+7. **Worker Contracts & Monthly Income Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Composicao/src)
+8. **Student Room Rental Management** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
+9. **Currency Converter with IOF Tax** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
+10. **Geometric Shape Area Calculation Using Inheritance and Polymorphism** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Polimorfismo/ExercicioAbstracao)
+11. **Salary Raise Calculator** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
+12. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
+13. **Final Grade Calculation and Approval Check** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)  
 
 
 <br>
