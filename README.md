@@ -13,9 +13,9 @@ Welcome to my repository of Java exercise solutions! This space is organized to 
 6. **Worker Contracts & Monthly Income Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Composicao/src)
 7. **Student Room Rental Management** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
 8. **Currency Converter with IOF Tax** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
-9. **Salary Raise Calculator** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
-10. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
-11. **Calculate Area, Perimeter, and Diagonal of a Rectangle** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoRetangulo)  
+9. **Geometric Shape Area Calculation Using Inheritance and Polymorphism** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Polimorfismo/ExercicioAbstracao)
+10. **Salary Raise Calculator** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
+11. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
 12. **Final Grade Calculation and Approval Check** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)  
 
 
