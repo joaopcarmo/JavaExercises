@@ -13,11 +13,12 @@ Welcome to my repository of Java exercise solutions! This space is organized to 
 6. **Tax Calculation for Individuals and Companies Using Inheritance and Polymorphism** - [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Polimorfismo/FixacaoAbstracao)
 7. **Worker Contracts & Monthly Income Calculation** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Composicao/src)
 8. **Student Room Rental Management** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Vetores/FixacaoHotel)
-9. **Currency Converter with IOF Tax** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
-10. **Geometric Shape Area Calculation Using Inheritance and Polymorphism** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Polimorfismo/ExercicioAbstracao)
-11. **Salary Raise Calculator** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
-12. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
-13. **Final Grade Calculation and Approval Check** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)  
+9. **Bank Account Operations: Withdrawal with Limit Validation - Exceptions - [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/ExceptionsEx/FixacaoException/src)
+10. **Currency Converter with IOF Tax** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ConversorMoeda)
+11. **Geometric Shape Area Calculation Using Inheritance and Polymorphism** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/Polimorfismo/ExercicioAbstracao)
+12. **Salary Raise Calculator** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/SalarioFuncionario)  
+13. **Bank Account Operations: Deposits and Withdrawals with Fee (Encapsulation)** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/ContaBancaria)  
+14. **Final Grade Calculation and Approval Check** – [Solution](https://github.com/joaopcarmo/JavaExercises/tree/main/Exercicios/Poo/src/ExerciciosPoo/CalculoNota)  
 
 
 <br>
